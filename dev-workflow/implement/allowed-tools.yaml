@@ -1,0 +1,1 @@
+allowed-tools: Read Write Edit Bash(scripts/lint-sql.sh) Bash(scripts/validate-config-schema.sh) Bash(git diff *)
